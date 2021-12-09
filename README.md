@@ -1,1 +1,1 @@
-- [Asteroid Hunter](js/game.js)
+- [Asteroid Hunter](game/index.html)
